@@ -1,0 +1,14 @@
+.swiper-box {
+  height: 300px;
+  width: 500px;
+  overflow: hidden;
+}
+.swiper-main {
+  height: 300px;
+  width: 2000px;
+}
+.swiper-img{
+  height: 300px;
+  width: 500px;
+  position: relative;
+}
